@@ -1,0 +1,3 @@
+[submodule "WaveGenSynth"]
+	path = WaveGenSynth
+	url = git@github.com:suckrowPierre/WaveGenSynth.git
