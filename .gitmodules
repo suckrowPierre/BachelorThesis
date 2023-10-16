@@ -4,3 +4,6 @@
 [submodule "ResultPage/TtPS.github.io"]
 	path = ResultPage/TtPS.github.io
 	url = git@github.com:suckrowPierre/TtPS.github.io.git
+[submodule "BachelorThesisLatex"]
+	path = BachelorThesisLatex
+	url = git@github.com:suckrowPierre/BachelorThesisLatex.git
