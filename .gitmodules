@@ -7,3 +7,6 @@
 [submodule "BachelorThesisLatex"]
 	path = BachelorThesisLatex
 	url = git@github.com:suckrowPierre/BachelorThesisLatex.git
+[submodule "ThesisPythonGraphs"]
+	path = ThesisPythonGraphs
+	url = git@github.com:suckrowPierre/ThesisPythonGraphs.git
