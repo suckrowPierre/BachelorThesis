@@ -1,3 +1,6 @@
 [submodule "WaveGenSynth"]
 	path = WaveGenSynth
 	url = git@github.com:suckrowPierre/WaveGenSynth.git
+[submodule "ResultPage/TtPS.github.io"]
+	path = ResultPage/TtPS.github.io
+	url = git@github.com:suckrowPierre/TtPS.github.io.git
