@@ -4,7 +4,7 @@ In this work, the integration and applicability of generative artificial intelli
 
 ## Info
 
-The [pdf](https://github.com/suckrowPierre/BachelorThesis/blob/main/BachelorThesisUnfinished.pdf) contains the finished bachelor thesis.
+The [pdf](https://github.com/suckrowPierre/BachelorThesis/blob/main/BachelorThesis.pdf) contains the finished bachelor thesis.
 
 The resulting digital instrument of the thesis is accesiable under [WaveGenSynth](https://github.com/suckrowPierre/WaveGenSynth/tree/thesis) 
 
